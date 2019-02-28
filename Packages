@@ -1,0 +1,59 @@
+Package: com.duccom01.autoleaddamon
+Version: 5.1
+Architecture: iphoneos-arm
+Maintainer: OneH!t
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,sudo,com.rbt.useragentchanger,unzip,ws.hbang.repower,rsync,jetslammed,socat
+Filename: ./debs/com.duccom01.autoleaddamon.deb
+Size: 76506
+MD5sum: ada0bbd3b031ec87da1c9f3873e78fe7
+SHA1: 9133c974c046adf9a89a3e6ce9f653cb46dc2589
+SHA256: d67bdeace115f763e9aa9592627f2b4371b02568ec5191924ac2b52736d33d26
+Section: System
+Description: OneH!t Tweak
+Author: OneH!t <info@aeon-ads.com>
+Name: autoleaddaemon
+
+Package: ch.ringwald.hidsupport
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Matthias Ringwald!t
+Depends: mobilesubstrate (>= 0.9.5101), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Filename: ./debs/ch.ringwald.hidsupport.deb
+Size: 26928
+MD5sum: ffa3e5f5a5a686af451359757ee5c72e
+SHA1: 9ba7f68eecb98d377171f93cf82093d46aef29bbb
+SHA256: 2e81d06b6d5bbdc6c54071ee1909dc1b54154f8525a0015d1c4f9b532c3d5f87
+Section: Tweaks
+Description: Support for Human Interface Devices on iOS and new Apple TV
+Author: OneH!t <info@aeon-ads.com>
+Name: hid-support
+
+Package: jp.ashikase.mousesupport
+Version: 1:1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>=3.0), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), preferenceloader (>= 2.2.2), applist, ch.ringwald.hidsupport (>= 1.3.1)
+Filename: ./debs/jp.ashikase.mousesupport.deb
+Size: 22486
+MD5sum: 6206c04861bfe9ccb44794c720d6e8cb
+SHA1: 332668c17c81b3326ebadea548dedc8b6510ee0b
+SHA256: 8a563366a1efd9cb6e1c0d73fd8ec4a5f803cc58f05e188b7f21857a3050f492
+Section: System
+Description: Pointer and external input extension
+Author: OneH!t <info@aeon-ads.com>
+Name: MouseSupport
+
+Package: com.duccom01.hookkeyboard
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Do Duc
+Depends: mobilesubstrate
+Filename: ./debs/com.duccom01.hookkeyboard.deb
+Size: 81388
+MD5sum: 5079f523426bddb51a860abb852bde8e
+SHA1: bf168b8de20fb769a67d42a0bdf56eb775625c40
+SHA256: cab2ba4be7f87b47c874d008c99f9172afdec36d965b62bc0d2a2454fbb35390
+Section: Tweaks
+Description: OneH!t Tweak
+Author: OneH!t <info@aeon-ads.com>
+Name: hookkeyboard
